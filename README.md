@@ -2,8 +2,7 @@
 
 This project uses weather measurements at the time of accidents to make predictions on the severity of traffic repercussions.
 
-Directory Structure
-___________________
+++Directory Structure++
 
 Data: The zipped source file.
 
