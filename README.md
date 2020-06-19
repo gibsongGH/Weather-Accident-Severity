@@ -2,7 +2,7 @@
 
 This project uses weather measurements at the time of accidents to make predictions on the severity of traffic repercussions.
 
-++Directory Structure++
+**Directory Structure
 
 Data: The zipped source file.
 
@@ -14,7 +14,7 @@ Reports: This is where you should start. It includes the project report and slid
 
 [Reports](https://github.com/gibsongGH/Weather-Accident-Severity/tree/master/reports)
 
-**Project Proposal**
+**Project Proposal
 
 *What is the goal?
 
