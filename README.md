@@ -1,14 +1,16 @@
-Weather Accident Severity
+Weather Impact on Accident Traffic Severity
 
-This project uses combined weather and accident data to make predictions on the severity of traffic repercussions.
+This project uses weather measurements at the time of accidents to make predictions on the severity of traffic repercussions.
 
 Directory Structure
 
 Data: This is where all of the Data lives.
 
 Notebooks: This directory includes the Notebooks and Code for the main part of the data wrangling, exploration and model generating.
+[Notebooks](https://github.com/gibsongGH/Weather-Accident-Severity/tree/master/notebooks)
 
 Reports: This is where you should start. It includes the project report and slides to get an overview of what this project tackles.
+[Reports](https://github.com/gibsongGH/Weather-Accident-Severity/tree/master/reports)
 
 Project Proposal
 
