@@ -1,14 +1,10 @@
 Weather Accident Severity
 
-This project uses combined weather and accident data to make predictions on the severity of traffic repurcussions.
-
-#Go to Report: Markdown PDF#
+This project uses combined weather and accident data to make predictions on the severity of traffic repercussions.
 
 Directory Structure
 
 Data: This is where all of the Data lives.
-
-Models: The Models and Pipelines are stored in this directory.
 
 Notebooks: This directory includes the Notebooks and Code for the main part of the data wrangling, exploration and model generating.
 
@@ -34,10 +30,8 @@ This is a countrywide traffic accident dataset, which covers 49 states of the Un
 
 What is your approach?
 
-# #
+Binary classification.  There are four tiers of traffic severity, condense these into Low and High.  Compare a Logistic Regression Classifier to a Random Forest Classifier.
 
 The Results
 
-The code, notebooks and documentation for this project can be found in this repository. Additionally, slides and a project report can be found in the reports directory. 
-
-Project based on the cookiecutter data science project template #cookiecutterdatascience, and Sebastian Engels' fantasitc Germoe/hit-predictor. 
+The code, notebooks and documentation for this project can be found in this repository. Additionally, slides and a project report can be found in the reports directory.  
